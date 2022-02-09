@@ -1,0 +1,53 @@
+.container {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#element {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.botones {
+    display: flex;
+    display: inline-block;
+    border: 1px solid black;
+    margin-left: 5px;
+}
+
+.botones h3 {
+    margin: 0 auto;
+    margin-left: 10px;
+}
+
+.botones input {
+    margin-left: 10px;
+}
+
+.register_activity {
+    width: 95%;
+    height: 60%;
+    margin: 0 auto;
+    margin-top: 10px;
+
+}
+
+.register {
+    width: 95%;
+    height: 75%;
+    border: 1px solid black;
+    margin: 0 auto;
+    overflow:scroll;
+    display:flex;
+    display: inline-block;
+}
+
+.register ul {
+    display: inline-block;
+}
+
+.register ul li {
+    list-style: none;
+}
